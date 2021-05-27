@@ -16,7 +16,7 @@ Bài tập lớn giúp sinh viên làm quen với một số kỹ năng trong đ
 ## Xây dựng mô hình
 
 <p align="center">
-     <img src="./Images/p2.png" alt="drawing" width="500"/>
+     <img src="p2.PNG" alt="drawing" width="500"/>
  </p>
  
 Thiết bị gồm các bộ phận tạm gọi như sau: Giá đỡ, Bàn quay, Tay quay, Thanh liên kết, Chốt 1, chốt 2, Chốt 3, Gối đỡ, Thanh chữ U, Thanh trượt
@@ -33,5 +33,5 @@ Thiết bị gồm các bộ phận tạm gọi như sau: Giá đỡ, Bàn quay,
 
 ## Kết quả
 <p align="center">
-     <img src="./Images/p1.png" alt="drawing" width="500"/>
+     <img src="p1.PNG" alt="drawing" width="500"/>
  </p>
